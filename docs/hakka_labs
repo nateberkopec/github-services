@@ -1,0 +1,7 @@
+Turn this hook on and all events for this repository (push, comments, etc), and Hakka Labs will listen to this repository for the keyword "[log]". If any comment or message (including commit messages!) contains "[log]" (sans quotes of course!)
+
+https://www.hakkalabs.co/
+
+## Automatic configuration
+To configure all your repositories automatically, visit https://www.hakkalabs.co/logs and click on the Integrations tab on the right.
+
